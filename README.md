@@ -1,5 +1,4 @@
-DICTIONARY
-- Arrays containing number index with vocabularies of the languages to be translated eg [0:a,1:b,2:c]
+- DICTIONARY: Arrays containing number index with vocabularies of the languages to be translated eg [0:a,1:b,2:c]
 - MODEL e.g RNN
 - H = sigmoid(WX + UHt-1 + B)
         W:    weight matrix of input 
